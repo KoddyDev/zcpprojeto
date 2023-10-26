@@ -1,0 +1,5 @@
+name: fodase
+version: 1.0
+main: me.koddydev.fodase.FodaseMain
+author: KoddyDev
+depend: [mkUtilsLegacy]
